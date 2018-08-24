@@ -54,7 +54,8 @@ hr.small {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .navbar-custom .navbar-brand {
-  font-weight: 800;
+  font-weight: 700;
+  font-size: 20px;
 }
 .navbar-custom .navbar-header .navbar-toggle {
   color: #777777;
